@@ -11,3 +11,4 @@ I want to try creating a CNN project to detect pneumonia from chest xrays. I wil
 
 - [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 - [Paul Mooney](https://www.kaggle.com/paultimothymooney/datasets)
+- Guangzhou Women and Children’s Medical Center, Guangzhou
