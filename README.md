@@ -5,7 +5,7 @@ Project By: [Uzair Bin Asim](https://github.com/Uzair05)
 
 ## Objective
 
-I want to try creating a CNN project to detect pneumonia from chest xrays. I will be implementing transfer learning using tensorflow==2.7
+I want to try creating a CNN project to detect pneumonia from chest xrays. I will be implementing transfer learning using tensorflow-gpu==2.4.1 (installed using conda)
 
 ## Credits
 
